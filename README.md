@@ -1,0 +1,2 @@
+# CS133C
+Fall 2019 CS133C MWF 12pm

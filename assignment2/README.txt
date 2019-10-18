@@ -1,3 +1,7 @@
+EDIT: Alex helped me get the program to start over based on user input after submitting this assignment last night,
+the updated code is in the assignment file.
+
+
 Design: Define secret number (as 0 to be updated later), min and max range (0 and 100), and ask user 1 to input the 
 secret number,then update secret number. Define user 2 tries and attempts used. Ask user 2 to guess secret number, if 
 too low, print too low, update min range to number guessed. If too high, print too high, update max range to number 

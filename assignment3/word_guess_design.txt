@@ -1,0 +1,28 @@
+Hangman-like game
+
+Define the "letter bank" (each letter in the alphabet)
+Define incorrect guesses that the user gets
+
+User 1 enter the secret word to be guessed by user 2
+Count number of characters in word and display number to user 2 with underscores ("_ _ _ _ _")
+User 2 begin guessing letters
+
+If correct letter, display where letter appears in word (such as "_ _ _ l _")
+Do not increase incorrect guesses
+
+If incorrect letter, tell user 2 that the letter is not in the word
+Increase incorrect guesses by 1
+
+Repeat until user 2 either guesses word or gets 5ish incorrect guesses
+
+If user correctly guesses word, print winner message, have eternal glory
+
+If user does not guess word, inform user they did not guess it correctly,
+print the correct word, have eternal damnation
+
+Ask if user would like to play again
+
+Note: if using the underscores to represent the letters is too difficult,
+      I will have the program tell the user how many letters are in the word
+      and if they guess a letter correctly then the program will say which
+      spot that letter is in.

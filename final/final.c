@@ -4,7 +4,7 @@
 #include "fighter.h"
 
 /*dynamic memory allocation for name of Fighter 1 from lines 106 to 123 and line 175, 
-I did not do assignment 7 and would like this to account for (some of) the points*/
+I did not do assignment 6 and would like this to account for (some of) the points*/
 
 // #define atk 10   //I originally planned on having two different atk and def or heal values
 // #define heal 15  //for each player that would factor into the range for hit and def/heal
